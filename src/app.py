@@ -4,7 +4,7 @@ import requests
 import logging
 #from package.myapp.controllers import mycontroller
 #import package.myapp.controllers.mycontroller
-import src.package.myapp.controllers.mycontroller as test
+import src.package.myapp.controller.mycontroller as test
 
 app = Flask(__name__)
 
